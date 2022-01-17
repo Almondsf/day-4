@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: teal;
+    background-color: plum;
 }
 .fem{
     font-family: 'Roboto Mono' sans-serif;
@@ -17,10 +17,11 @@ body{
 
 }
 .temp{
-    background-color: white;
+    background-color: turquoise;
     font-family: 'Roboto Mono';
     width: 450px;
     display: flex;
+    color: white;
     justify-content: space-between;
     padding: 70px 50px;
     border-radius: 8px;
